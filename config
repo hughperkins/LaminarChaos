@@ -1,0 +1,5 @@
+LOCALPREFIX=/home/osmpdev/local
+
+LINUX=1
+# MSVC=1
+
